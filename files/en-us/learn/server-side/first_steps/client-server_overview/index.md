@@ -99,7 +99,7 @@ The first and second lines contain most of the information we talked about above
 The final line contains information about the client-side cookies — you can see in this case the cookie includes an id for managing sessions (`Cookie: sessionid=6ynxs23n521lu21b1t136rhbv7ezngie; ...`).
 
 The remaining lines contain information about the browser used and the sort of responses it can handle.
-For example, you can see here that:
+For example, you can see that here:
 
 - My browser (`User-Agent`) is Mozilla Firefox (`Mozilla/5.0`).
 - It can accept gzip compressed information (`Accept-Encoding: gzip`).
